@@ -202,37 +202,37 @@ class CfgUnitInsignia {
 
 	// FSG
 	class FSG_0 {
-		displayName = "[FG] Insignia de Soldado";
+		displayName = "[FSG] Insignia de Soldado";
 		author = "[KP] Wyqer";
 		texture = "\KP_Ranks\ranks\fsg\kpd0_ca.paa";
 		textureVehicle = "";
 	};
 	class FSG_1 {
-		displayName = "[FG] Insignia de Cabo";
+		displayName = "[FSG] Insignia de Cabo";
 		author = "[KP] Wyqer";
 		texture = "\KP_Ranks\ranks\fsg\kpd1_ca.paa";
 		textureVehicle = "";
 	};
 	class FSG_2 {
-		displayName = "[FG] Insignia de Sargento";
+		displayName = "[FSG] Insignia de Sargento";
 		author = "[KP] Wyqer";
 		texture = "\KP_Ranks\ranks\fsg\kpd2_ca.paa";
 		textureVehicle = "";
 	};
 	class FSG_3 {
-		displayName = "[FG] Insignia de Alférez";
+		displayName = "[FSG] Insignia de Alférez";
 		author = "[KP] Wyqer";
 		texture = "\KP_Ranks\ranks\fsg\kpd3_ca.paa";
 		textureVehicle = "";
 	};
 	class FSG_4 {
-		displayName = "[FG] Insignia de Teniente";
+		displayName = "[FSG] Insignia de Teniente";
 		author = "[KP] Wyqer";
 		texture = "\KP_Ranks\ranks\fsg\kpd4_ca.paa";
 		textureVehicle = "";
 	};
 	class FSG_5 {
-		displayName = "[FG] Insignia de Capitán";
+		displayName = "[FSG] Insignia de Capitán";
 		author = "[KP] Wyqer";
 		texture = "\KP_Ranks\ranks\fsg\kpd5_ca.paa";
 		textureVehicle = "";
@@ -240,85 +240,85 @@ class CfgUnitInsignia {
 	class FSG_6 {
 		displayName = "BWT06 Unteroffizier";
 		author = "[KP] Wyqer";
-		texture = "\KP_Ranks\ranks\fsg\kpd6_ca.paa";
+		texture = "";
 		textureVehicle = "";
 	};
 	class FSG_7 {
 		displayName = "BWT07 Stabsunteroffizier";
 		author = "[KP] Wyqer";
-		texture = "\KP_Ranks\ranks\fsg\kpd7_ca.paa";
+		texture = "";
 		textureVehicle = "";
 	};
 	class FSG_8 {
 		displayName = "BWT08 Feldwebel";
 		author = "[KP] Wyqer";
-		texture = "\KP_Ranks\ranks\fsg\kpd8_ca.paa";
+		texture = "";
 		textureVehicle = "";
 	};
 	class FSG_9 {
 		displayName = "BWT09 Oberfeldwebel";
 		author = "[KP] Wyqer";
-		texture = "\KP_Ranks\ranks\fsg\kpd9_ca.paa";
+		texture = "";
 		textureVehicle = "";
 	};
 	class FSG_10 {
 		displayName = "BWT10 Hauptfeldwebel";
 		author = "[KP] Wyqer";
-		texture = "\KP_Ranks\ranks\fsg\kpd10_ca.paa";
+		texture = "";
 		textureVehicle = "";
 	};
 	class FSG_11 {
 		displayName = "BWT11 Stabsfeldwebel";
 		author = "[KP] Wyqer";
-		texture = "\KP_Ranks\ranks\fsg\kpd11_ca.paa";
+		texture = "";
 		textureVehicle = "";
 	};
 	class FSG_12 {
 		displayName = "BWT12 Oberstabsfeldwebel";
 		author = "[KP] Wyqer";
-		texture = "\KP_Ranks\ranks\fsg\kpd12_ca.paa";
+		texture = "";
 		textureVehicle = "";
 	};
 	class FSG_13 {
 		displayName = "BWT13 Leutenant";
 		author = "[KP] Wyqer";
-		texture = "\KP_Ranks\ranks\fsg\kpd13_ca.paa";
+		texture = "";
 		textureVehicle = "";
 	};
 	class FSG_14 {
 		displayName = "BWT14 Oberleutnant";
 		author = "[KP] Wyqer";
-		texture = "\KP_Ranks\ranks\fsg\kpd14_ca.paa";
+		texture = "";
 		textureVehicle = "";
 	};
 	class FSG_15 {
 		displayName = "BWT15 Hauptmann";
 		author = "[KP] Wyqer";
-		texture = "\KP_Ranks\ranks\fsg\kpd15_ca.paa";
+		texture = "";
 		textureVehicle = "";
 	};
 	class FSG_16 {
 		displayName = "BWT16 Stabshauptmann";
 		author = "[KP] Wyqer";
-		texture = "\KP_Ranks\ranks\fsg\kpd16_ca.paa";
+		texture = "";
 		textureVehicle = "";
 	};
 	class FSG_17 {
 		displayName = "BWT17 Major";
 		author = "[KP] Wyqer";
-		texture = "\KP_Ranks\ranks\fsg\kpd17_ca.paa";
+		texture = "";
 		textureVehicle = "";
 	};
 	class FSG_18 {
 		displayName = "BWT18 Oberstleutnant";
 		author = "[KP] Wyqer";
-		texture = "\KP_Ranks\ranks\fsg\kpd18_ca.paa";
+		texture = "";
 		textureVehicle = "";
 	};
 	class FSG_19 {
 		displayName = "BWT19 Oberst";
 		author = "[KP] Wyqer";
-		texture = "\KP_Ranks\ranks\fsg\kpd19_ca.paa";
+		texture = "";
 		textureVehicle = "";
 	};
 };
