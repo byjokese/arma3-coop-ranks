@@ -11,6 +11,7 @@ if (isDedicated) then {
 	if ((side player) != sideLogic) then {
 		// Initialize KP Ranks
 		KP_Ranks_init_done = false;
+		KP_Ranks_enable = true;
 		[] spawn KP_Ranks_init;
 		
 		// Start the loop
