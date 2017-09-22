@@ -1,11 +1,11 @@
-FSG_Ranks_uniforms =
+KP_Ranks_uniforms =
 [
 	// Format:
 	// ["Uniform Classname" as string, faction as int]
 	// Factions:
 	// 0 = MCOE
 	// 1 = FSG
-	["FSG_Custom_Camo_Nieve",1]
+	["MCOE_Uniform_Veterano_MC",0]
 ];
 
-publicVariable "FSG_Ranks_uniforms";
+publicVariable "KP_Ranks_uniforms";

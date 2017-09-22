@@ -1,1 +1,0 @@
-FSG_Ranks_enable = true;
