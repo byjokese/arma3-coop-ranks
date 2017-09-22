@@ -88,7 +88,7 @@ class CfgUnitInsignia {
 		textureVehicle = "";
 	};
 	class MCOE_2 {
-		displayName = "[MCOE] Insignia de Cabo";
+		displayName = "[MCOE] Insignia de Sargento";
 		author = "[KP] Wyqer";
 		texture = "\KP_Ranks\ranks\mcoe\3_Sargento.paa";
 		textureVehicle = "";
