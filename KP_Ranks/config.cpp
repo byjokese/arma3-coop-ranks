@@ -76,39 +76,39 @@ class Extended_PostInit_EventHandlers {
 class CfgUnitInsignia {
 	// MCOE
 	class MCOE_0 {
-		displayName = "BWF00 Schütze";
+		displayName = "[MCOE] Insignia de Soldado";
 		author = "[KP] Wyqer";
-		texture = "\KP_Ranks\ranks\mcoe\kpd0_ca.paa";
+		texture = "\KP_Ranks\ranks\mcoe\1_Soldado.paa";
 		textureVehicle = "";
 	};
 	class MCOE_1 {
-		displayName = "BWF01 Gefreiter";
+		displayName = "[MCOE] Insignia de Cabo";
 		author = "[KP] Wyqer";
-		texture = "\KP_Ranks\ranks\mcoe\kpd1_ca.paa";
+		texture = "\KP_Ranks\ranks\mcoe\2_Cabo.paa";
 		textureVehicle = "";
 	};
 	class MCOE_2 {
-		displayName = "BWF02 Obergefreiter";
+		displayName = "[MCOE] Insignia de Cabo";
 		author = "[KP] Wyqer";
-		texture = "\KP_Ranks\ranks\mcoe\kpd2_ca.paa";
+		texture = "\KP_Ranks\ranks\mcoe\3_Sargento.paa";
 		textureVehicle = "";
 	};
 	class MCOE_3 {
-		displayName = "BWF03 Hauptgefreiter";
+		displayName = "[MCOE] Insignia de Alférez";
 		author = "[KP] Wyqer";
-		texture = "\KP_Ranks\ranks\mcoe\kpd3_ca.paa";
+		texture = "\KP_Ranks\ranks\mcoe\4_Alferez.paa";
 		textureVehicle = "";
 	};
 	class MCOE_4 {
-		displayName = "BWF04 Stabsgefreiter";
+		displayName = "[MCOE] Insignia de Teniente";
 		author = "[KP] Wyqer";
-		texture = "\KP_Ranks\ranks\mcoe\kpd4_ca.paa";
+		texture = "\KP_Ranks\ranks\mcoe\5_Teniente.paa";
 		textureVehicle = "";
 	};
 	class MCOE_5 {
-		displayName = "BWF05 Oberstabsgefreiter";
+		displayName = "[MCOE] Insignia de Capitán";
 		author = "[KP] Wyqer";
-		texture = "\KP_Ranks\ranks\mcoe\kpd5_ca.paa";
+		texture = "\KP_Ranks\ranks\mcoe\6_Capitan.paa";
 		textureVehicle = "";
 	};
 	class MCOE_6 {
@@ -202,37 +202,37 @@ class CfgUnitInsignia {
 
 	// FSG
 	class FSG_0 {
-		displayName = "BWT00 Schütze";
+		displayName = "[FG] Insignia de Soldado";
 		author = "[KP] Wyqer";
 		texture = "\KP_Ranks\ranks\fsg\kpd0_ca.paa";
 		textureVehicle = "";
 	};
 	class FSG_1 {
-		displayName = "BWT01 Gefreiter";
+		displayName = "[FG] Insignia de Cabo";
 		author = "[KP] Wyqer";
 		texture = "\KP_Ranks\ranks\fsg\kpd1_ca.paa";
 		textureVehicle = "";
 	};
 	class FSG_2 {
-		displayName = "BWT02 Obergefreiter";
+		displayName = "[FG] Insignia de Sargento";
 		author = "[KP] Wyqer";
 		texture = "\KP_Ranks\ranks\fsg\kpd2_ca.paa";
 		textureVehicle = "";
 	};
 	class FSG_3 {
-		displayName = "BWT03 Hauptgefreiter";
+		displayName = "[FG] Insignia de Alférez";
 		author = "[KP] Wyqer";
 		texture = "\KP_Ranks\ranks\fsg\kpd3_ca.paa";
 		textureVehicle = "";
 	};
 	class FSG_4 {
-		displayName = "BWT04 Stabsgefreiter";
+		displayName = "[FG] Insignia de Teniente";
 		author = "[KP] Wyqer";
 		texture = "\KP_Ranks\ranks\fsg\kpd4_ca.paa";
 		textureVehicle = "";
 	};
 	class FSG_5 {
-		displayName = "BWT05 Oberstabsgefreiter";
+		displayName = "[FG] Insignia de Capitán";
 		author = "[KP] Wyqer";
 		texture = "\KP_Ranks\ranks\fsg\kpd5_ca.paa";
 		textureVehicle = "";
