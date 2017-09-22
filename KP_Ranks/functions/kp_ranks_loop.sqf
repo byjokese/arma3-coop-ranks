@@ -23,63 +23,16 @@ while {true} do {
 		{
 			if (_uniform == (_x select 0)) exitWith {
 				switch (_x select 1) do {
-					case 1: {
-						_faction = "KP_Ranks_BWT_";
-						_insigniaClass = _faction + str _rank;					
+					case 0: { //MCOE
+						_faction = "MCOE_";
+						_insigniaClass = _faction + str _rank;
 					};
-					case 2: {
-						_faction = "KP_Ranks_USA_";
-						switch (_rank) do {
-							case 1: {_insigniaClass = _faction + str _rank;};
-							case 2;
-							case 3: {_insigniaClass = _faction + "2";};
-							case 4;
-							case 5: {_insigniaClass = _faction + "4";};
-							case 6;
-							case 7: {_insigniaClass = _faction + "6";};
-							case 8;
-							case 9: {_insigniaClass = _faction + "8";};
-							case 10: {_insigniaClass = _faction + str _rank;};
-							case 11: {_insigniaClass = _faction + str _rank;};
-							case 12: {_insigniaClass = _faction + str _rank;};
-							case 13: {_insigniaClass = _faction + str _rank;};
-							case 14: {_insigniaClass = _faction + str _rank;};
-							case 15;
-							case 16: {_insigniaClass = _faction + "15";};
-							case 17: {_insigniaClass = _faction + str _rank;};
-							case 18: {_insigniaClass = _faction + str _rank;};
-							case 19: {_insigniaClass = _faction + str _rank;};
-							default {_insigniaClass = ""};
-						};
-					};
-					case 3: {
-						_faction = "KP_Ranks_CRO_";
-						switch (_rank) do {
-							case 1;
-							case 2: {_insigniaClass = _faction + "1"};
-							case 3;
-							case 4;
-							case 5: {_insigniaClass = _faction + "3"};
-							case 6: {_insigniaClass = _faction + str _rank;};
-							case 7: {_insigniaClass = _faction + str _rank;};
-							case 8: {_insigniaClass = _faction + str _rank;};
-							case 9: {_insigniaClass = _faction + str _rank;};
-							case 10: {_insigniaClass = _faction + str _rank;};
-							case 11;
-							case 12: {_insigniaClass = _faction + "11";};
-							case 13: {_insigniaClass = _faction + str _rank;};
-							case 14: {_insigniaClass = _faction + str _rank;};
-							case 15;
-							case 16: {_insigniaClass = _faction + "15";};
-							case 17: {_insigniaClass = _faction + str _rank;};
-							case 18: {_insigniaClass = _faction + str _rank;};
-							case 19: {_insigniaClass = _faction + str _rank;};
-							default {_insigniaClass = ""};
-						};
+					case 1: { //FSG
+						_faction = "FSG_";
+						_insigniaClass = _faction + str _rank;
 					};
 					default {
-						_faction = "KP_Ranks_BWF_";
-						_insigniaClass = _faction + str _rank;
+						_insigniaClass = "";
 					};
 				};
 			};
