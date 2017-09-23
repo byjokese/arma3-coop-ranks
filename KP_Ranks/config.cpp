@@ -76,45 +76,45 @@ class Extended_PostInit_EventHandlers {
 class CfgUnitInsignia {
 	// MCOE
 	class MCOE_0 {
+		displayName = "[MCOE] Insignia de Recluta";
+		author = "[KP] Wyqer";
+		texture = "";
+		textureVehicle = "";
+	};
+	class MCOE_1 {
 		displayName = "[MCOE] Insignia de Soldado";
 		author = "[KP] Wyqer";
 		texture = "\KP_Ranks\ranks\mcoe\1_Soldado.paa";
 		textureVehicle = "";
 	};
-	class MCOE_1 {
+	class MCOE_2 {
 		displayName = "[MCOE] Insignia de Cabo";
 		author = "[KP] Wyqer";
 		texture = "\KP_Ranks\ranks\mcoe\2_Cabo.paa";
 		textureVehicle = "";
 	};
-	class MCOE_2 {
+	class MCOE_3 {
 		displayName = "[MCOE] Insignia de Sargento";
 		author = "[KP] Wyqer";
 		texture = "\KP_Ranks\ranks\mcoe\3_Sargento.paa";
 		textureVehicle = "";
 	};
-	class MCOE_3 {
+	class MCOE_4 {
 		displayName = "[MCOE] Insignia de Alférez";
 		author = "[KP] Wyqer";
 		texture = "\KP_Ranks\ranks\mcoe\4_Alferez.paa";
 		textureVehicle = "";
 	};
-	class MCOE_4 {
+	class MCOE_5 {
 		displayName = "[MCOE] Insignia de Teniente";
 		author = "[KP] Wyqer";
 		texture = "\KP_Ranks\ranks\mcoe\5_Teniente.paa";
 		textureVehicle = "";
 	};
-	class MCOE_5 {
+	class MCOE_6 {
 		displayName = "[MCOE] Insignia de Capitán";
 		author = "[KP] Wyqer";
 		texture = "\KP_Ranks\ranks\mcoe\6_Capitan.paa";
-		textureVehicle = "";
-	};
-	class MCOE_6 {
-		displayName = "BWF06 Unteroffizier";
-		author = "[KP] Wyqer";
-		texture = "\KP_Ranks\ranks\mcoe\kpd6_ca.paa";
 		textureVehicle = "";
 	};
 	class MCOE_7 {
