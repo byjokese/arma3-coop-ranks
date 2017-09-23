@@ -4,7 +4,7 @@ class CfgPatches {
 		name = "KP Ranks";
 		author = "Wyqer";
 		url = "";
- 
+
 		requiredVersion = 1.72;
 		requiredAddons[] = {"A3_Modules_F","Extended_EventHandlers"};
 		units[] = {"KP_forceRanks"};

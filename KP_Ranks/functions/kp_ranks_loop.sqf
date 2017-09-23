@@ -10,7 +10,7 @@ private ["_rank", "_faction", "_uniform", "_insigniaClass"];
 _rank = 0;
 _faction = "";
 _uniform = "";
-_insigniaClass = "";
+_insigniaClass = "MCOE_0";
 
 diag_log "[KP RANKS] Automatic insignia assignment enabled";
 
@@ -48,6 +48,7 @@ while {true} do {
 	//diag_log "[KP RANKS] After Insignia";
 	waitUntil {uiSleep 5;
 		//diag_log format ["[KP RANKS] wait for uniform: %1", (uniform player)];
+		//diag_log format ["[KP RANKS] wait for insignia: %1", [player] call BIS_fnc_getUnitInsignia];
 		(((([player] call BIS_fnc_getUnitInsignia) != _insigniaClass) || ((player getVariable "KP_Ranks_rank") != _rank)) && ((uniform player) in KP_Ranks_uniform_classnames))
 	};
 	//diag_log "[KP RANKS] After Wait Until";
