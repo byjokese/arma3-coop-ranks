@@ -5,10 +5,9 @@ KP_Ranks_uniforms =
 	// Factions:
 	// 0 = MCOE
 	// 1 = FSG
-	["MCOE_Uniform_Veterano_MC",0]
+	["FSG_Custom_Camo_Nieve",1],
+	["FSG_Custom_Camo_Nieve_Mix",1],
+	["FSG_Custom_Camo_Nieve_White",1]
 ];
 
-publicVariable "FSG_Ranks_uniforms";
-
 publicVariable "KP_Ranks_uniforms";
->>>>>>> parent of 9336e5e... Merge pull request #1 from byjokese/MCOE
