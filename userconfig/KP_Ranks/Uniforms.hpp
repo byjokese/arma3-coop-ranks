@@ -5,6 +5,26 @@ KP_Ranks_uniforms =
 	// Factions:
 	// 0 = MCOE
 	// 1 = FSG
+// MCOE
+	["MCOE_Uniform_Veterano_MC",0],
+	["MCOE_Uniform_Veterano_MC_Arido",0],
+	["MCOE_Uniform_Veterano_MC_Tropical",0],
+	["MCOE_Uniform_Veterano_MC_Artico",0],
+	["MCOE_Uniform_Veterano_MC_Urbano",0],
+	["MCOE_Uniform_Veterano_MC_Negro",0],
+	["MCOE_Uniform_Infanteria_MC",0],
+	["MCOE_Uniform_Infanteria_MC_Arido",0],
+	["MCOE_Uniform_Infanteria_MC_Tropical",0],
+	["MCOE_Uniform_Infanteria_MC_Artico",0],
+	["MCOE_Uniform_Infanteria_MC_Urbano",0],
+	["MCOE_Uniform_Infanteria_MC_Negro",0],
+	["MCOE_Uniform_Infanteria_MC_Arremangado",0],
+	["MCOE_Uniform_Infanteria_MC_Arido_Arremangado",0],
+	["MCOE_Uniform_Infanteria_MC_Tropical_Arremangado",0],
+	["MCOE_Uniform_Infanteria_MC_Artico_Arremangado",0],
+	["MCOE_Uniform_Infanteria_MC_Urbano_Arremangado",0],
+	["MCOE_Uniform_Infanteria_MC_Negro_Arremangado",0],
+// FSG
 	["FSG_Custom_Camo_Nieve",1],
 	["FSG_Custom_Camo_Nieve_Mix",1],
 	["FSG_Custom_Camo_Nieve_White",1],
@@ -21,6 +41,7 @@ KP_Ranks_uniforms =
 	["FSG_Custom_Camo_aor1",1],
 	["FSG_Custom_Camo_aor1_green",1],
 	["FSG_sniper_Camo_marpat",1]
+
 ];
 
 publicVariable "KP_Ranks_uniforms";
