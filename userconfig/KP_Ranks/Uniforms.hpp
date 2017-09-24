@@ -22,8 +22,7 @@ KP_Ranks_uniforms =
 	["MCOE_Uniform_Infanteria_MC_Tropical_Arremangado",0],
 	["MCOE_Uniform_Infanteria_MC_Artico_Arremangado",0],
 	["MCOE_Uniform_Infanteria_MC_Urbano_Arremangado",0],
-	["MCOE_Uniform_Infanteria_MC_Negro_Arremangado",0],
-	
+	["MCOE_Uniform_Infanteria_MC_Negro_Arremangado",0]
 ];
 
 publicVariable "KP_Ranks_uniforms";
